@@ -1,0 +1,4 @@
+Algorithm notes
+
+Selection Sort
+Merge Sort

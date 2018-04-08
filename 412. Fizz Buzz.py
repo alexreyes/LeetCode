@@ -10,8 +10,8 @@ class Solution:
 			elif (i % 5 == 0):
 				arr.append("Buzz")
 			else: 
-				arr.append("" + i)
+				arr.append(str(i))
 		return arr
-
+	
 x = Solution().fizzBuzz(15)
 print(x)
